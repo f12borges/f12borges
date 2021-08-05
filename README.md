@@ -1,6 +1,7 @@
 - 👋 Olá, sou Fernando Borges.
 - 👀 Estou interessado em programação Java.
-- 🌱 Atualmente estou aprendendo programação web com Java/Spring Boot, GWT, API REST, Docker e containers.
+- 🌱 Atualmente estou aprendendo programação web com Java
+- 📚 Predendo na sequência estudar Spring Boot, GWT, API REST, Docker e containers.
 
 <a href="https://www.linkedin.com/in/f12borges/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/60994456?v=4" width="100px;" alt=""/>
